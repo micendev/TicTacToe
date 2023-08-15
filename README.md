@@ -1,1 +1,1 @@
-Proyecto realizado con React 18 y Vite.
+Realizado con React 18 y Vite.
