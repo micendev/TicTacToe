@@ -1,1 +1,11 @@
-Realizado con React 18 y Vite.
+## Installation
+
+
+
+```bash
+  npm install 
+```
+
+```bash
+  npm run dev
+```
